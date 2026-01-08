@@ -22,7 +22,7 @@ class SecondLargestElement {
 		bruteforce(arr);
 		better(arr);
 		optimal(arr);
-		
+		sc.close();
 	}
 	
 	// Brute-force approach
